@@ -1,44 +1,4 @@
-<div align="center">
-<p>
-   <a align="left" href="https://ultralytics.com/yolov3" target="_blank">
-   <img width="850" src="https://user-images.githubusercontent.com/26833433/99805965-8f2ca800-2b3d-11eb-8fad-13a96b222a23.jpg"></a>
-</p>
-<br>
-<div>
-   <a href="https://github.com/ultralytics/yolov3/actions"><img src="https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
-   <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv3 Citation"></a>
-   <a href="https://hub.docker.com/r/ultralytics/yolov3"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov3?logo=docker" alt="Docker Pulls"></a>
-   <br>
-   <a href="https://colab.research.google.com/github/ultralytics/yolov3/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-   <a href="https://www.kaggle.com/ultralytics/yolov3"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-   <a href="https://join.slack.com/t/ultralytics/shared_invite/zt-w29ei8bp-jczz7QYUmDtgo6r6KcMIAg"><img src="https://img.shields.io/badge/Slack-Join_Forum-blue.svg?logo=slack" alt="Join Forum"></a>
-</div>
-<br>
-<div align="center">
-   <a href="https://github.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://www.linkedin.com/company/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://twitter.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://youtube.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://www.facebook.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="2%"/>
-   </a>
-   <img width="2%" />
-   <a href="https://www.instagram.com/ultralytics/">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="2%"/>
-   </a>
-</div>
+
 
 <br>
 <p>
@@ -231,43 +191,3 @@ Get started in seconds with our verified environments. Click each icon below for
 * **TTA** [Test Time Augmentation](https://github.com/ultralytics/yolov5/issues/303) includes reflection and scale augmentations.<br>Reproduce by `python val.py --data coco.yaml --img 1536 --iou 0.7 --augment`
 
 </details>
-
-## <div align="center">Contribute</div>
-
-We love your input! We want to make contributing to YOLOv3 as easy and transparent as possible. Please see our [Contributing Guide](CONTRIBUTING.md) to get started, and fill out the [YOLOv3 Survey](https://ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey) to send us feedback on your experiences. Thank you to all our contributors!
-
-<a href="https://github.com/ultralytics/yolov3/graphs/contributors"><img src="https://opencollective.com/ultralytics/contributors.svg?width=990" /></a>
-
-
-## <div align="center">Contact</div>
-
-For YOLOv3 bugs and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov3/issues). For business inquiries or
-professional support requests please visit [https://ultralytics.com/contact](https://ultralytics.com/contact).
-
-<br>
-
-<div align="center">
-    <a href="https://github.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.linkedin.com/company/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://twitter.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://youtube.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.facebook.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.instagram.com/ultralytics/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
-    </a>
-</div>
