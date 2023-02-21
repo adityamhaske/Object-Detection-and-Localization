@@ -1,7 +1,6 @@
 # Object-Detection-and-localization
  
 
-
 <br>
 <p>
 YOLOv3 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
